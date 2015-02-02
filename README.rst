@@ -8,9 +8,11 @@ like will likely come.
 TODO
 ----
 
-* etc/deliverance.cfg
-  - deliverance-init: path to input file not accessible when refering via http
-  - rules-file is project specific.
+- Make individual configs usable standalone.
+
+- etc/deliverance.cfg
+    - deliverance-init: path to input file not accessible when refering via http
+    - rules-file is project specific.
 
 Notes on Plone < 4
 ------------------
